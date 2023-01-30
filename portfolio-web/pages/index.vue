@@ -1,0 +1,7 @@
+<template>
+  <Header />
+  <div class="text">
+    <h1>HI, my name is Victoria</h1>
+    <p>front end developer, tech enthusiast, and a bit artist</p>
+  </div>
+</template>
