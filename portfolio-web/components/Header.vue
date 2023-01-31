@@ -1,16 +1,16 @@
 <template>
     <div class="nav">
     <button>
-      <a href="/">Home</a>
+      <NuxtLink to="/">Home</NuxtLink>
     </button>
     <button>
-      <a href="/about">About</a>
+      <NuxtLink to="/about">About</NuxtLink>
     </button>
     <button>
-      <a href="/projects">Projects</a>
+      <NuxtLink to="/projects">Projects</NuxtLink>
     </button>
     <button>
-      <a href="/contact">Contact</a>
+      <NuxtLink to="/contact">Contact</NuxtLink>
     </button> 
   </div>
 </template>
