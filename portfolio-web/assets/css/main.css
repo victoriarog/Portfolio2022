@@ -4,9 +4,13 @@ html, body, :root {
     font-family: 'Montserrat', sans-serif;
     height: 100%;
     padding-left: 4vw;
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-x: hidden; 
+    /* overflow-y: hidden; */
     background-color: #ffe8d6;
+}
+
+html {
+    overflow-y: hidden;
 }
 
 h1 {
@@ -70,4 +74,20 @@ input::placeholder {
     width: 50%;
     height: 20vh;
     /* padding: 5px; */
+}
+
+#top {
+    height: 100vh;
+}
+
+#about {
+    height: 100vh;
+}
+
+#projects {
+    height: 100vh;
+}
+
+#contact {
+    height: 100vh;
 }
