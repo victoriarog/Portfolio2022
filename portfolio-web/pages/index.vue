@@ -38,7 +38,8 @@
     </div> -->
     <div>
         <input class="emailin" type="email" placeholder="Your e-mail"/><br/><br/>
-        <input class="msgin" type="text" placeholder="Drop me a message!"/>
+        <input class="msgin" type="text" placeholder="Drop me a message!"/><br/>
+        <button class="sendb">Send</button>
     </div>
 </div>
 
